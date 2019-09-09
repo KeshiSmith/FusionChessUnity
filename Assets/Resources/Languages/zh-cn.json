@@ -1,0 +1,87 @@
+{
+    "name":"简体中文",
+    "text":{
+        
+        "version":"v 0.1",
+        "author":"可是",
+        "email":"keshi_miao@163.com",
+        
+        "title":"融合象棋",
+        "play":"对弈",
+        "help":"帮助",
+        "options":"选项",
+        "about":"关于",
+        "exit":"退出",
+        
+        "pvc":"玩家 VS 电脑",
+        "pvp":"玩家 VS 玩家",
+        "back":"返回",
+        
+        "previous":"上一页",
+        "next":"下一页",
+        
+        "languages":"语言",
+        "mute":"静音",
+        "mvolumn":"音乐音量",
+        "svolumn":"音效音量",
+
+        "game_name":"游戏名称",
+        "current_version":"当前版本",
+        "game_author":"游戏作者",
+        "author_email":"电子邮箱",
+        
+        "not_support_bluetooth":"当前设备不支持蓝牙",
+        "host":"主机",
+        "join":"加入",
+        "wait_to_join":"等待加入中...",
+        "refresh":"刷新",
+        
+        "player_ok":"蓝牙已连接",
+        "player_exit":"玩家已退出",
+        "not_host":"你不是主机",
+
+        "new":"新局",
+        "regret":"悔棋",
+        "resign":"认输",
+        "draw":"求和",
+        "settings":"设置",
+
+        "exit_message":"你确认退出游戏吗？",
+        
+        "choose":"选择",
+        "fusion_model":"融合模式",
+        "hidden_model":"暗棋模式",
+        "initiative":"我先手",
+        "passive":"我后手",
+        
+        "new_message":"当前回合未结束，你确定要开始新局吗？",
+        "regret_message":"你确定要悔棋吗？",
+        "resign_message":"你确定要认输吗？",
+        "draw_message":"你确定要求和吗？",
+        "back_message":"你确定要返回吗？",
+        
+        "regret_ok":"对方请求悔棋，你同意吗？",
+        "regret_not":"对方拒绝了你的请求",
+        "draw_ok":"对方请求平局，你同意吗？",
+        "draw_not":"对方拒绝了你的请求",
+        
+        "anime":"动画",
+        "show_selects":"显示行动点",
+        
+        "move_not":"无法移动（被将军）",
+        "checked":"将军",
+        
+        "win_red":"红方胜！",
+        "win_black":"蓝方胜！",
+        "resign_red":"红方认输，蓝方胜！",
+        "resign_black":"蓝方认输,红方胜！",
+        "win_draw":"平局！",
+        
+        "confirm":"确认",
+        "cancel":"取消",
+
+        "help1":"融合象棋是在传统中国象棋的基础上进行创新，产生的新型象棋玩法。在融合象棋的回合中，双方可以将车马炮兵（卒）四种进攻型棋子进行两两融合，产生若干种新类型的棋子，从而大大提高了棋子的机动性。与此同时，融合产生的新棋子可以分离成原型棋子，使得棋局更加复杂，战术更加多变，游戏更加有趣。新版的融合象棋，新增了暗棋模式，玩家可以获得在信息不完全的场地进行游戏的体验。",
+        "help2":"融合模式中，双方可以将车马炮兵（卒）四种进攻型棋子两两融合，产生新类型的棋子，新类型的棋子可以同时拥有两种原型棋子的行动规则（包括限制范围）。当然，新类型的棋子也可以分离成它的两种原型棋子。",
+        "help3":"暗棋模式中，双方的视野将受限制，双方将只能看到自己棋子和自己棋子所能行动的位置，以及对方能够攻击己方棋子的棋子。",
+    }
+}

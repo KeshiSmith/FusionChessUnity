@@ -1,0 +1,87 @@
+{
+    "name":"English",
+    "text":{
+    
+        "version":"v 0.1",
+        "author":"Keshi",
+        "email":"keshi_miao@163.com",
+    
+        "title":"FUSION CHESS",
+        "play":"PLAY",
+        "help":"HELP",
+        "options":"OPTIONS",
+        "about":"ABOUT",
+        "exit":"EXIT",
+        
+        "pvc":"PLAYER . VS . PLAYER",
+        "pvp":"PLAYER . VS . COMPUTER",
+        "back":"BACK",
+
+        "previous":"PREVIOUS",
+        "next":"NEXT",
+        
+        "languages":"LANGUAGES",
+        "mute":"MUTE",
+        "mvolumn":"MUSIC VOLUMN",
+        "svolumn":"SOUND VOLUMN",
+        
+        "game_name":"NAME",
+        "current_version":"VERSION",
+        "game_author":"AUTHOR",
+        "author_email":"E-MAIL",
+        
+        "not_support_bluetooth":"NOT SUPPORT BLUETOOTH",
+        "host":"HOST",
+        "join":"JOIN",
+        "wait_to_join":"waiting to join...",
+        "refresh":"REFRESH",
+        
+        "player_ok":"CONNECTION SUCCESS",
+        "player_exit":"PLAYER HAS EXITED",
+        "not_host":"YOU ARE NOT HOST",
+        
+        "new":"NEW",
+        "regret":"REGRET",
+        "resign":"RESIGN",
+        "draw":"DRAW",
+        "settings":"SETTINGS",
+
+        "exit_message":"Are you sure to exit?",
+        
+        "choose":"CHOOSE",
+        "fusion_model":"FUSION MODEL",
+        "hidden_model":"HIDDEN MODEL",
+        "initiative":"INITIATIVE",
+        "passive":"PASSIVE",
+        
+        "new_message":"Are you sure to end the current round and begin a NEW?",
+        "regret_message":"Are you sure to REGRET?",
+        "resign_message":"Are you sure to RESIGN?",
+        "draw_message":"Are you sure to DRAW?",
+        "back_message":"Are you sure to BACK?",
+        
+        "regret_ok":"The opponent asks for REGRET. AGREE?",
+        "regret_not":"The opponent has refused your REGRET.",
+        "draw_ok":"The opponent asks for DRAW. AGREE?",
+        "draw_not":"The opponent has refused your DRAW.",
+        
+        "anime":"ANIME",
+        "show_selects":"SHOW SELECTS",
+        
+        "move_not":"MOVE NOT - YOU ARE CHECKED!",
+        "checked":"CHECK",
+        
+        "win_red":"THE RED WIN!",
+        "win_black":"THE BLUE WIN!",
+        "resign_red":"THE RED RESIGN, THE BLUE WIN!",
+        "resign_black":"THE BLUE RESIGN, THE RED WIN!",
+        "win_draw":"DRAW!",
+
+        "confirm":"CONFIRM",
+        "cancel":"CONCEL",
+ 
+        "help1":"Fusion chess is a new gameplay that is based on traditional Chinese chess. In the round of the fusion chess, the two sides can combine any two of the four offensive pieces (Chariot, Horse, Cannon, Pawn) into a new type of piece, that greatly improves the mobility of the pieces. At the same time, the new pieces produced by the fusion can be separated into its prototype pieces, making the game more complicated, the tactics more varied, and the game more interesting. The new version of the fusion chess, added the hidden mode, and players can get the experience of playing games in a venue with incomplete information.",
+        "help2":"In the fusion mode, the two sides can combine the four offensive pieces(Chariot, Horse, Cannon, Pawn) into a new piece. The new piece will have two action rules (including the limitation range) of its prototype pieces. Meanwhile, the new piece can also be separated into its two prototype pieces.",
+        "help3":"In the hidden mode, the vision of both sides will be limited, and both parties will only be able to see where our own pieces locate, where our own pieces can move, and the piece of the other side can attack our pieces.",
+    }
+}
